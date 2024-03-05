@@ -1,0 +1,981 @@
+Location,Number of Occurrence,Saga_Chapter of Occurence
+Berðlu,1,['Egil|1']
+Firðafylki,5,"['Egil|57', 'Egil|60', 'Egil|3', 'Egil|2', 'Egil|4']"
+Gaulum,2,"['Egil|49', 'Egil|2']"
+Vík,16,"['Laxdaela|30', 'Egil|9', 'Egil|63', 'Egil|58', 'Audun Tale|1', 'Egil|26', 'Ref|6', 'Ref|8', 'Egil|66', 'Egil|71', 'Egil|77', 'Egil|3', 'Egil|70', 'Egil|19', 'Laxdaela|56', 'Halldor Tale|1']"
+Noregi,63,"['Laxdaela|20', 'Laxdaela|41', 'Sarcastic Halli Tale|2', 'Egil|57', 'Eirik|1', 'Egil|56', 'Halldor Tale|3', 'Egil|63', 'Egil|58', 'Laxdaela|66', 'Audun Tale|1', 'Egil|39', 'Egil|71', 'Gunnlaug|11', 'Egil|19', 'Laxdaela|56', 'Vatnsdal|14', 'Vatnsdal|9', 'Laxdaela|7', 'Hrafnkel|16', 'Vatnsdal|1', 'Greenlanders|7', 'Egil|33', 'Gisla|38', 'Vatnsdal|8', 'Ref|6', 'Egil|61', 'Egil|68', 'Egil|81', 'Laxdaela|38', 'Laxdaela|19', 'Eirik|3', 'Halldor Tale|1', 'Laxdaela|11', 'Audun Tale|4', 'Laxdaela|5', 'Laxdaela|40', 'Gunnlaug|7', 'Egil|60', 'Laxdaela|39', 'Laxdaela|47', 'Laxdaela|71', 'Ref|10', 'Greenlanders|8', 'Halldor Tale|5', 'Gisla|7', 'Sarcastic Halli Tale|7', 'Egil|64', 'Ref|5', 'Egil|35', 'Laxdaela|36', 'Egil|34', 'Egil|80', 'Egil|36', 'Egil|30', 'Egil|26', 'Laxdaela|49', 'Gisla|1', 'Greenlanders|1', 'Egil|3', 'Greenlanders|6', 'Gunnlaug|1', 'Egil|75']"
+Upplönd,1,['Egil|3']
+Þrándheim,7,"['Egil|22', 'Gunnlaug|12', 'Laxdaela|71', 'Egil|3', 'Laxdaela|38', 'Sarcastic Halli Tale|3', 'Vatnsdal|47']"
+Þrændalögum,1,['Egil|3']
+Naumudal,5,"['Egil|12', 'Egil|14', 'Egil|22', 'Egil|3', 'Egil|13']"
+Naumdælafylki,2,"['Egil|3', 'Egil|12']"
+Hálogaland,6,"['Egil|14', 'Egil|22', 'Egil|9', 'Egil|11', 'Egil|3', 'Egil|12']"
+Þrándheimi,16,"['Egil|14', 'Egil|64', 'Gisla|3', 'Egil|22', 'Egil|9', 'Gunnlaug|12', 'Egil|26', 'Laxdaela|72', 'Ref|16', 'Laxdaela|71', 'Egil|71', 'Gunnlaug|5', 'Egil|3', 'Laxdaela|38', 'Gunnlaug|10', 'Halldor Tale|5']"
+Mæri,7,"['Vatnsdal|9', 'Egil|65', 'Audun Tale|1', 'Egil|6', 'Egil|3', 'Egil|4', 'Egil|69']"
+Norðmæri,2,"['Gisla|1', 'Egil|3']"
+Raumsdal,5,"['Vatnsdal|1', 'Vatnsdal|3', 'Egil|65', 'Egil|3', 'Egil|4']"
+Sunnmæri,2,"['Egil|4', 'Egil|3']"
+Sólskel,1,['Egil|4']
+Stað,2,"['Sarcastic Halli Tale|11', 'Egil|4']"
+Þrándheims,13,"['Egil|64', 'Halldor Tale|4', 'Egil|21', 'Egil|9', 'Egil|60', 'Gunnlaug|12', 'Gunnlaug|9', 'Egil|16', 'Sarcastic Halli Tale|11', 'Egil|8', 'Laxdaela|71', 'Egil|5', 'Egil|4']"
+Eiðsjó,1,['Egil|4']
+Fjörðu,8,"['Egil|37', 'Egil|24', 'Egil|55', 'Egil|36', 'Egil|32', 'Egil|68', 'Egil|19', 'Egil|4']"
+Naustdalur,1,['Egil|4']
+Fjalir,1,['Egil|4']
+Jamtaland,2,"['Egil|4', 'Egil|14']"
+Helsingjaland,2,"['Egil|4', 'Egil|14']"
+Vesturlönd,1,['Egil|4']
+Suðureyjar,3,"['Gunnlaug|12', 'Egil|4', 'Eirik|1']"
+Dyflinnar skíði,1,['Egil|4']
+Írland,3,"['Laxdaela|19', 'Egil|4', 'Eirik|9']"
+Norðmandí,1,['Egil|4']
+Vallandi,2,"['Egil|4', 'Egil|53']"
+Katanes,2,"['Egil|4', 'Eirik|1']"
+Skotlandi,3,"['Vatnsdal|43', 'Egil|51', 'Egil|4']"
+Orkneyjar,7,"['Vatnsdal|43', 'Vatnsdal|9', 'Eirik|1', 'Egil|60', 'Gunnlaug|12', 'Laxdaela|2', 'Egil|4']"
+Hjaltland,1,['Egil|4']
+Færeyjar,2,"['Egil|4', 'Laxdaela|49']"
+Ísland,13,"['Audun Tale|4', 'Sarcastic Halli Tale|2', 'Vatnsdal|10', 'Halldor Tale|3', 'Laxdaela|70', 'Eirik|5', 'Egil|27', 'Egil|23', 'Egil|4', 'Eirik|3', 'Egil|90', 'Vatnsdal|14', 'Vatnsdal|16']"
+Fjörðum,9,"['Vatnsdal|39', 'Egil|65', 'Egil|49', 'Egil|20', 'Egil|48', 'Egil|32', 'Egil|5', 'Vatnsdal|44', 'Egil|12']"
+Sogn,6,"['Egil|42', 'Egil|65', 'Egil|36', 'Egil|66', 'Egil|5', 'Egil|68']"
+Hálogalandi,9,"['Sarcastic Halli Tale|8', 'Egil|7', 'Egil|17', 'Egil|16', 'Egil|8', 'Egil|23', 'Vatnsdal|7', 'Egil|12', 'Egil|10']"
+Torgum,5,"['Egil|12', 'Egil|7', 'Egil|9', 'Egil|16', 'Egil|13']"
+Hrafnistu,2,"['Egil|7', 'Egil|23']"
+Leku,2,"['Egil|7', 'Egil|13']"
+Torgar,3,"['Egil|7', 'Egil|8', 'Egil|9']"
+Vefsnir,1,['Egil|7']
+Álöst,4,"['Egil|22', 'Egil|7', 'Egil|12', 'Egil|9']"
+Sandnesi,5,"['Egil|24', 'Egil|22', 'Egil|7', 'Egil|9', 'Egil|17']"
+Sandnes,6,"['Egil|14', 'Egil|7', 'Egil|9', 'Egil|16', 'Egil|8', 'Egil|10']"
+Agðir,1,['Egil|9']
+Rogaland,1,['Egil|9']
+Hörðaland,6,"['Egil|57', 'Egil|18', 'Egil|9', 'Laxdaela|9', 'Laxdaela|27', 'Egil|66']"
+Rogalandi,4,"['Egil|9', 'Egil|58', 'Egil|36', 'Egil|69']"
+Hafursfirði,5,"['Vatnsdal|9', 'Vatnsdal|10', 'Egil|9', 'Vatnsdal|8', 'Egil|13']"
+Ögðum,1,['Egil|9']
+Háleygjafylki,1,['Egil|12']
+Finnmörk,4,"['Egil|14', 'Egil|17', 'Egil|13', 'Egil|16']"
+Kvenlandi,1,['Egil|14']
+Noregur,2,"['Egil|14', 'Laxdaela|38']"
+Kvenland,2,"['Egil|14', 'Egil|17']"
+Finnland,1,['Egil|14']
+Kirjálaland,2,"['Egil|14', 'Egil|17']"
+Kilir,1,['Egil|14']
+Kvenlands,1,['Egil|14']
+Vefsni,1,['Egil|14']
+Torga,2,"['Egil|14', 'Egil|23']"
+Vogum,1,['Egil|17']
+Englands,12,"['Sarcastic Halli Tale|9', 'Egil|51', 'Gisla|8', 'Egil|18', 'Egil|60', 'Egil|63', 'Egil|17', 'Laxdaela|39', 'Egil|53', 'Gunnlaug|10', 'Sarcastic Halli Tale|1', 'Egil|62']"
+Englandi,12,"['Laxdaela|41', 'Gisla|8', 'Gunnlaug|7', 'Egil|60', 'Egil|52', 'Egil|50', 'Gunnlaug|8', 'Egil|17', 'Sarcastic Halli Tale|10', 'Laxdaela|62', 'Egil|68', 'Gunnlaug|10']"
+Hörðalandi,11,"['Egil|37', 'Egil|64', 'Egil|65', 'Egil|58', 'Egil|36', 'Egil|17', 'Egil|80', 'Egil|77', 'Egil|40', 'Egil|69', 'Gisla|7']"
+Vestfold,1,['Egil|18']
+Gautelfar,1,['Egil|18']
+Hísing,2,"['Egil|21', 'Egil|18']"
+Furusundi,1,['Egil|18']
+Byrðu,1,['Egil|19']
+Víkinni,5,"['Egil|21', 'Laxdaela|9', 'Laxdaela|71', 'Egil|77', 'Egil|19']"
+Upplanda,6,"['Egil|24', 'Egil|64', 'Egil|21', 'Vatnsdal|2', 'Egil|72', 'Egil|19']"
+Danmerkur,19,"['Sarcastic Halli Tale|9', 'Audun Tale|1', 'Egil|71', 'Ref|19', 'Egil|19', 'Egil|49', 'Gisla|38', 'Egil|68', 'Halldor Tale|1', 'Ref|20', 'Audun Tale|4', 'Laxdaela|71', 'Egil|77', 'Ref|18', 'Laxdaela|14', 'Gisla|8', 'Laxdaela|36', 'Egil|70', 'Sarcastic Halli Tale|1']"
+Austurveg,4,"['Audun Tale|3', 'Egil|19', 'Egil|46', 'Egil|49']"
+Mostrarsunds,1,['Egil|19']
+Elfina,1,['Egil|19']
+Víkina,3,"['Egil|70', 'Egil|19', 'Egil|49']"
+Foldina,1,['Egil|19']
+Líðandisness,1,['Egil|19']
+Líðandisnesi,1,['Egil|19']
+Hlöðum,4,"['Egil|22', 'Gunnlaug|6', 'Gunnlaug|12', 'Gunnlaug|10']"
+Skarnssund,1,['Egil|22']
+Beitsjó,1,['Egil|22']
+Eldueiðs,1,['Egil|22']
+Naumudals,1,['Egil|22']
+Sandness,1,['Egil|22']
+Hlaða,1,['Egil|22']
+Íslands,62,"['Laxdaela|20', 'Laxdaela|41', 'Sarcastic Halli Tale|2', 'Egil|57', 'Eirik|1', 'Egil|56', 'Egil|63', 'Vatnsdal|13', 'Hrafnkel|1', 'Laxdaela|76', 'Gisla|24', 'Gunnlaug|9', 'Egil|23', 'Sarcastic Halli Tale|3', 'Vatnsdal|11', 'Laxdaela|44', 'Egil|25', 'Hrafnkel|16', 'Vatnsdal|10', 'Ref|4', 'Laxdaela|27', 'Gisla|38', 'Laxdaela|72', 'Laxdaela|38', 'Egil|81', 'Halldor Tale|1', 'Gunnlaug|13', 'Egil|38', 'Ref|20', 'Vatnsdal|43', 'Eirik|14', 'Greenlanders|5', 'Halldor Tale|4', 'Egil|60', 'Egil|59', 'Laxdaela|39', 'Laxdaela|47', 'Laxdaela|3', 'Eirik|5', 'Egil|27', 'Laxdaela|71', 'Sarcastic Halli Tale|11', 'Ref|10', 'Gunnlaug|10', 'Greenlanders|8', 'Audun Tale|3', 'Halldor Tale|5', 'Egil|67', 'Eirik|2', 'Eirik|4', 'Egil|55', 'Egil|64', 'Gisla|8', 'Egil|34', 'Egil|65', 'Vatnsdal|12', 'Egil|30', 'Laxdaela|1', 'Laxdaela|6', 'Egil|78', 'Egil|70', 'Laxdaela|17']"
+Þjórsá,1,['Egil|23']
+Rangá hina ytri,1,['Egil|23']
+Þjórsár,1,['Egil|23']
+Markarfljóts,1,['Egil|23']
+Hofi,12,"['Vatnsdal|25', 'Vatnsdal|38', 'Vatnsdal|24', 'Vatnsdal|15', 'Vatnsdal|31', 'Egil|23', 'Thorstein Staff Struck Tale|1', 'Vatnsdal|35', 'Vatnsdal|30', 'Bolli Bollason Tale|1', 'Vatnsdal|27', 'Vatnsdal|16']"
+Rangá hina eystri,1,['Egil|23']
+Hrafntóftir,1,['Egil|23']
+Fljótshlíð,2,"['Egil|23', 'Laxdaela|38']"
+Breiðabólstað,3,"['Eirik|2', 'Vatnsdal|47', 'Egil|23']"
+Hlíðarenda,2,"['Gunnlaug|1', 'Egil|23']"
+Hvolinn,1,['Egil|23']
+Stórólfsvöll,1,['Egil|23']
+Brekkum,1,['Egil|23']
+Velli,1,['Egil|23']
+Rangár hið efra,1,['Egil|23']
+Rangá,2,"['Hrafnkel|1', 'Egil|23']"
+Þverár,2,"['Egil|23', 'Bolli Bollason Tale|2']"
+Stórólfsvallar,1,['Egil|23']
+Hildisey,1,['Egil|23']
+Móeiðarhvol,1,['Egil|23']
+Íslandi,57,"['Eirik|13', 'Ref|7', 'Laxdaela|20', 'Laxdaela|41', 'Laxdaela|30', 'Laxdaela|25', 'Egil|29', 'Gunnlaug|9', 'Egil|89', 'Laxdaela|76', 'Egil|39', 'Gunnlaug|5', 'Egil|23', 'Gunnlaug|11', 'Sarcastic Halli Tale|3', 'Laxdaela|56', 'Egil|90', 'Gunnlaug|4', 'Laxdaela|26', 'Laxdaela|7', 'Vatnsdal|10', 'Laxdaela|27', 'Gunnlaug|8', 'Egil|33', 'Laxdaela|72', 'Sarcastic Halli Tale|5', 'Ref|14', 'Laxdaela|38', 'Laxdaela|19', 'Egil|40', 'Ref|20', 'Laxdaela|5', 'Laxdaela|40', 'Greenlanders|5', 'Ref|1', 'Egil|60', 'Gunnlaug|6', 'Sarcastic Halli Tale|4', 'Laxdaela|39', 'Sarcastic Halli Tale|11', 'Laxdaela|71', 'Vatnsdal|46', 'Audun Tale|3', 'Sarcastic Halli Tale|7', 'Vatnsdal|16', 'Ref|12', 'Eirik|4', 'Gisla|8', 'Egil|80', 'Laxdaela|70', 'Egil|36', 'Egil|70', 'Greenlanders|2', 'Sarcastic Halli Tale|1', 'Egil|79', 'Laxdaela|17', 'Laxdaela|74']"
+Valdres,1,['Egil|24']
+Vors,2,"['Egil|24', 'Egil|25']"
+Ostrarfjörðu,1,['Egil|25']
+Sólundir,1,['Egil|25']
+Vesturfold,1,['Egil|26']
+Austur- Agðir,1,['Egil|26']
+Hringaríki,1,['Egil|26']
+Túnsbergs,1,['Egil|26']
+Sognsæ,4,"['Egil|35', 'Egil|32', 'Egil|57', 'Egil|26']"
+Reykjanes,3,"['Egil|27', 'Egil|30', 'Laxdaela|11']"
+Borgarfirði,13,"['Egil|87', 'Laxdaela|20', 'Gunnlaug|4', 'Laxdaela|55', 'Egil|33', 'Egil|27', 'Gunnlaug|5', 'Laxdaela|38', 'Gunnlaug|10', 'Egil|28', 'Laxdaela|42', 'Gunnlaug|1', 'Laxdaela|35']"
+Gufuá,3,"['Egil|28', 'Egil|27', 'Egil|78']"
+Knarrarnes,1,['Egil|28']
+Mýrar,4,"['Egil|28', 'Egil|29', 'Egil|85', 'Egil|78']"
+Selalóns,1,['Egil|28']
+Borgarhrauns,1,['Egil|28']
+Hafnarfjalla,1,['Egil|28']
+Borg,29,"['Vatnsdal|33', 'Laxdaela|20', 'Egil|57', 'Gunnlaug|9', 'Egil|83', 'Egil|39', 'Gunnlaug|5', 'Gunnlaug|11', 'Egil|90', 'Gunnlaug|4', 'Egil|82', 'Vatnsdal|34', 'Egil|33', 'Laxdaela|38', 'Vatnsdal|35', 'Egil|40', 'Confederates|8', 'Egil|38', 'Egil|85', 'Egil|60', 'Gunnlaug|1', 'Gunnlaug|10', 'Egil|28', 'Egil|80', 'Egil|30', 'Laxdaela|49', 'Gunnlaug|2', 'Vatnsdal|32', 'Hrafnkel|9']"
+Borgarfjörð,13,"['Gisla|19', 'Egil|29', 'Egil|58', 'Egil|30', 'Egil|39', 'Egil|77', 'Egil|78', 'Laxdaela|60', 'Confederates|9', 'Egil|28', 'Confederates|8', 'Vatnsdal|14', 'Egil|38']"
+Hvanneyri,3,"['Egil|28', 'Vatnsdal|14', 'Vatnsdal|10']"
+Andakíl,1,['Egil|28']
+Andakílsá,1,['Egil|28']
+Grímsá,3,"['Egil|28', 'Egil|29', 'Egil|40']"
+Álftanes,3,"['Egil|28', 'Egil|87', 'Egil|31']"
+Langár,2,"['Egil|56', 'Egil|28']"
+Háfslækjar,1,['Egil|28']
+Ánabrekku,6,"['Egil|87', 'Egil|85', 'Egil|86', 'Egil|83', 'Egil|68', 'Egil|28']"
+Grímarsstöðum,1,['Egil|28']
+Granastöðum,2,"['Egil|28', 'Egil|40']"
+Digranesi,1,['Egil|28']
+Krumshólum,1,['Egil|28']
+Beigalda,1,['Egil|28']
+Einkunnum,1,['Egil|28']
+Langá,5,"['Egil|87', 'Egil|85', 'Egil|86', 'Egil|30', 'Egil|28']"
+Þursstöðum,1,['Egil|28']
+Stangarholti,1,['Egil|28']
+Jarðlangsstöðum,1,['Egil|28']
+Hvítá,13,"['Egil|87', 'Laxdaela|68', 'Egil|86', 'Laxdaela|55', 'Egil|29', 'Gisla|38', 'Laxdaela|42', 'Egil|39', 'Laxdaela|60', 'Vatnsdal|18', 'Vatnsdal|40', 'Egil|28', 'Egil|79']"
+Norðurá,3,"['Egil|28', 'Egil|29', 'Laxdaela|60']"
+Gljúfurá,3,"['Egil|84', 'Egil|28', 'Egil|29']"
+Hvítár,3,"['Egil|28', 'Laxdaela|68', 'Laxdaela|70']"
+Þverá,2,"['Egil|28', 'Bolli Bollason Tale|2']"
+Borgar,25,"['Egil|56', 'Egil|58', 'Egil|83', 'Gunnlaug|5', 'Gunnlaug|11', 'Laxdaela|48', 'Gunnlaug|4', 'Egil|86', 'Egil|31', 'Confederates|11', 'Laxdaela|38', 'Vatnsdal|35', 'Egil|81', 'Egil|40', 'Confederates|8', 'Egil|38', 'Egil|85', 'Egil|59', 'Confederates|9', 'Gunnlaug|10', 'Egil|28', 'Confederates|12', 'Egil|84', 'Gunnlaug|2', 'Egil|79']"
+Álftanesi,5,"['Egil|87', 'Egil|59', 'Egil|29', 'Egil|30', 'Hrafnkel|9']"
+Mýrum,2,"['Egil|29', 'Gisla|38']"
+Ökrum,1,['Egil|29']
+Hvalseyjar,1,['Egil|29']
+Einbúanes,1,['Egil|29']
+Sigmundarstöðum,1,['Egil|29']
+Haugum,1,['Egil|29']
+Sigmundarnes,1,['Egil|29']
+Munaðarnes,1,['Egil|29']
+Grísartunga,1,['Egil|29']
+Flókadalsár,1,['Egil|29']
+Varmalæk,1,['Egil|29']
+Laugardal,2,"['Egil|29', 'Confederates|8']"
+Leirulækjar,2,"['Egil|87', 'Egil|30']"
+Knarrarnesi,1,['Egil|30']
+Raufarnes,1,['Egil|30']
+Miðfjarðareyja,1,['Egil|30']
+Sogni,7,"['Egil|64', 'Egil|57', 'Egil|65', 'Egil|49', 'Egil|32', 'Egil|77', 'Egil|40']"
+Aurlandi,4,"['Egil|35', 'Egil|65', 'Egil|32', 'Egil|57']"
+Aurland,6,"['Egil|64', 'Egil|36', 'Egil|66', 'Egil|32', 'Egil|77', 'Egil|40']"
+Dyflinnar,4,"['Laxdaela|19', 'Egil|32', 'Gunnlaug|8', 'Egil|33']"
+Noreg,32,"['Egil|58', 'Egil|71', 'Gunnlaug|5', 'Ref|19', 'Sarcastic Halli Tale|3', 'Laxdaela|56', 'Ref|15', 'Laxdaela|67', 'Gisla|38', 'Laxdaela|72', 'Laxdaela|38', 'Laxdaela|19', 'Halldor Tale|1', 'Audun Tale|4', 'Laxdaela|5', 'Laxdaela|28', 'Egil|60', 'Laxdaela|9', 'Laxdaela|39', 'Eirik|5', 'Egil|48', 'Ref|16', 'Laxdaela|71', 'Sarcastic Halli Tale|10', 'Egil|77', 'Gisla|7', 'Vatnsdal|16', 'Laxdaela|14', 'Laxdaela|36', 'Egil|80', 'Egil|32', 'Sarcastic Halli Tale|1']"
+Hjaltlandi,1,['Egil|32']
+Mósey,1,['Egil|32']
+Hjaltlands,1,['Egil|33']
+Orkneyjum,4,"['Vatnsdal|9', 'Confederates|11', 'Gunnlaug|8', 'Egil|33']"
+Suðureyja,2,"['Eirik|5', 'Egil|33']"
+Móseyjarborg,1,['Egil|33']
+Noregs,31,"['Hrafnkel|3', 'Laxdaela|41', 'Egil|57', 'Egil|63', 'Gunnlaug|9', 'Laxdaela|76', 'Audun Tale|1', 'Egil|49', 'Gunnlaug|8', 'Laxdaela|72', 'Confederates|11', 'Egil|68', 'Laxdaela|19', 'Ref|11', 'Halldor Tale|1', 'Ref|20', 'Egil|60', 'Laxdaela|39', 'Eirik|5', 'Sarcastic Halli Tale|10', 'Gunnlaug|10', 'Audun Tale|3', 'Laxdaela|68', 'Vatnsdal|16', 'Egil|55', 'Egil|35', 'Gunnlaug|12', 'Egil|80', 'Egil|70', 'Sarcastic Halli Tale|1', 'Greenlanders|5']"
+Útsteini,1,['Egil|36']
+Ögvaldsnesi,1,['Egil|36']
+Fitjum,2,"['Egil|80', 'Egil|36']"
+Álreksstöðum,2,"['Egil|58', 'Egil|36']"
+Lygru,1,['Egil|36']
+Sæheimi,1,['Egil|36']
+Bjarmalands,1,['Egil|37']
+Bjarmalandi,1,['Egil|37']
+Vínu,1,['Egil|37']
+Fenhring,3,"['Egil|66', 'Egil|37', 'Egil|58']"
+Aski,4,"['Egil|56', 'Egil|37', 'Egil|58', 'Egil|57']"
+Digraness,2,"['Egil|59', 'Egil|38']"
+Flókadalsárósi,1,['Egil|39']
+Reykjadalsáróss,1,['Egil|39']
+Rauðsgils,1,['Egil|39']
+Flókadal,2,"['Egil|87', 'Egil|39']"
+Þrándarholti,1,['Egil|39']
+Geirshlíð,1,['Egil|39']
+Reykjadal,1,['Egil|39']
+Reykjum hinum efri,1,['Egil|39']
+Hrísum,1,['Egil|39']
+Hvítárvöllum,1,['Egil|40']
+Heggsstöðum,1,['Egil|40']
+Sandvík,1,['Egil|40']
+Digranes,1,['Egil|40']
+Brákarsund,1,['Egil|40']
+Brákarsundi,1,['Egil|40']
+Andakíls,1,['Egil|40']
+Sogns,1,['Egil|40']
+Atleyjar,2,"['Egil|43', 'Egil|45']"
+Atley,1,['Egil|44']
+Kúrlands,1,['Egil|46']
+Danmarkar,2,"['Egil|46', 'Egil|49']"
+Danmörk,9,"['Egil|81', 'Egil|49', 'Laxdaela|76', 'Egil|47', 'Egil|71', 'Audun Tale|2', 'Egil|70', 'Ref|18', 'Ref|20']"
+Danmörku,8,"['Gunnlaug|7', 'Egil|47', 'Laxdaela|71', 'Egil|77', 'Gunnlaug|10', 'Egil|70', 'Laxdaela|10', 'Gisla|10']"
+Eyrarsund,1,['Egil|47']
+Lundi,1,['Egil|47']
+Halland,1,['Egil|48']
+Brenneyja,1,['Egil|48']
+Jótlandi,1,['Egil|48']
+Fjölum,1,['Egil|49']
+Jótland,3,"['Egil|56', 'Egil|49', 'Ref|20']"
+Fríslands,1,['Egil|49']
+Frísland,2,"['Egil|70', 'Egil|49']"
+Jótlandssíðu,1,['Egil|49']
+Saxland,2,"['Audun Tale|3', 'Egil|50']"
+Flæmingjaland,1,['Egil|50']
+England,5,"['Egil|51', 'Gunnlaug|7', 'Egil|60', 'Egil|52', 'Egil|50']"
+Skotland,5,"['Egil|51', 'Eirik|1', 'Egil|60', 'Egil|52', 'Laxdaela|2']"
+Norðimbraland,3,"['Egil|60', 'Egil|52', 'Egil|51']"
+Jórvík,3,"['Egil|60', 'Egil|51', 'Egil|62']"
+Norðimbralandi,1,['Egil|51']
+Bretlandi,1,['Egil|51']
+Kúrlandi,1,['Egil|53']
+Jarlsnes,1,['Egil|53']
+Borgarfjarðar,8,"['Vatnsdal|39', 'Laxdaela|65', 'Egil|56', 'Laxdaela|70', 'Laxdaela|38', 'Laxdaela|68', 'Laxdaela|42', 'Egil|67']"
+Langárfossi,1,['Egil|56']
+Leirulæk,2,"['Egil|56', 'Egil|86']"
+Álftár,1,['Egil|56']
+Langárfoss,1,['Egil|57']
+Gulaþings,3,"['Sarcastic Halli Tale|11', 'Egil|66', 'Egil|57']"
+Sygnafylki,1,['Egil|57']
+Hörðafylki,1,['Egil|57']
+Sauðungssunds,1,['Egil|57']
+Steinssunds,1,['Egil|57']
+Haugasund,1,['Egil|58']
+Túnsbergi,1,['Egil|58']
+Gulaþingi,2,"['Egil|58', 'Egil|64']"
+Vitar,1,['Egil|58']
+Alda,1,['Egil|58']
+Álreksstaða,1,['Egil|58']
+Herðlu,1,['Egil|58']
+Herðluvers,1,['Egil|58']
+Herðluveri,1,['Egil|58']
+Lambastöðum,4,"['Egil|87', 'Egil|59', 'Egil|78', 'Laxdaela|18']"
+Lambastaði,2,"['Egil|87', 'Egil|59']"
+Krumskeldu,1,['Egil|59']
+Naustanes,1,['Egil|59']
+Orkneyja,2,"['Egil|60', 'Gunnlaug|8']"
+Humru,1,['Egil|60']
+Lundúna,1,['Egil|63']
+Óslóarfjörð,2,"['Egil|70', 'Egil|63']"
+Raumaríki,1,['Egil|63']
+Dofrafjall,3,"['Egil|65', 'Egil|64', 'Egil|72']"
+Raumsdals,3,"['Egil|65', 'Vatnsdal|2', 'Vatnsdal|1']"
+Höð,1,['Egil|65']
+Blindheimi,1,['Egil|65']
+Vörl,1,['Egil|65']
+Ask,1,['Egil|66']
+Saxlands,1,['Egil|70']
+Limafjarðar,1,['Egil|70']
+Hálsi,5,"['Egil|81', 'Bolli Bollason Tale|9', 'Egil|70', 'Bolli Bollason Tale|5', 'Bolli Bollason Tale|10']"
+Vermaland,2,"['Egil|71', 'Egil|77']"
+Vermalandi,2,"['Egil|71', 'Egil|75']"
+Eiðaskóg,3,"['Egil|71', 'Egil|76', 'Egil|73']"
+Svíaveldi,1,['Egil|71']
+Eiðaskógs,1,['Egil|72']
+Eiðaskógi,1,['Egil|75']
+Eiðaskógur,1,['Egil|76']
+Vermalands,1,['Egil|77']
+Gautland,2,"['Egil|77', 'Gunnlaug|8']"
+Gufuskálum,1,['Egil|78']
+Rosmhvalanesi,1,['Egil|78']
+Írlandi,7,"['Laxdaela|18', 'Laxdaela|20', 'Eirik|1', 'Gunnlaug|8', 'Eirik|5', 'Egil|78', 'Laxdaela|11']"
+Gufunesi,1,['Egil|78']
+Breiðafjörð,14,"['Laxdaela|55', 'Gisla|25', 'Eirik|2', 'Laxdaela|27', 'Laxdaela|1', 'Laxdaela|72', 'Laxdaela|3', 'Gisla|24', 'Egil|78', 'Laxdaela|64', 'Confederates|9', 'Laxdaela|56', 'Laxdaela|17', 'Laxdaela|11']"
+Álftaness,1,['Egil|78']
+Kóranes,1,['Egil|78']
+Skorraey,1,['Egil|78']
+Þormóðsskers,1,['Egil|78']
+Þorskafirði,2,"['Egil|78', 'Hrafnkel|9']"
+Gufudalu,1,['Egil|78']
+Gufufjörður,1,['Egil|78']
+Mosfelli,6,"['Egil|89', 'Egil|78', 'Gunnlaug|5', 'Gunnlaug|11', 'Egil|88', 'Gunnlaug|13']"
+Ölfusi,2,"['Egil|78', 'Gunnlaug|5']"
+Hjarðarholti,15,"['Laxdaela|26', 'Laxdaela|44', 'Laxdaela|40', 'Laxdaela|50', 'Laxdaela|53', 'Halldor Tale|5', 'Laxdaela|29', 'Laxdaela|27', 'Laxdaela|49', 'Laxdaela|42', 'Laxdaela|38', 'Laxdaela|22', 'Egil|79', 'Bolli Bollason Tale|1', 'Laxdaela|43']"
+Laxárdal,14,"['Laxdaela|50', 'Laxdaela|34', 'Laxdaela|36', 'Laxdaela|61', 'Laxdaela|9', 'Laxdaela|6', 'Laxdaela|35', 'Laxdaela|3', 'Hrafnkel|2', 'Laxdaela|16', 'Laxdaela|22', 'Egil|79', 'Laxdaela|8', 'Laxdaela|11']"
+Breiðafjarðardölum,3,"['Laxdaela|52', 'Egil|79', 'Laxdaela|37']"
+Hjarðarholt,19,"['Laxdaela|41', 'Laxdaela|25', 'Laxdaela|48', 'Laxdaela|44', 'Laxdaela|31', 'Laxdaela|73', 'Laxdaela|69', 'Laxdaela|52', 'Laxdaela|42', 'Laxdaela|28', 'Laxdaela|40', 'Laxdaela|51', 'Laxdaela|50', 'Laxdaela|63', 'Laxdaela|36', 'Laxdaela|54', 'Gunnlaug|3', 'Egil|79', 'Laxdaela|45']"
+Völlu,3,"['Bolli Bollason Tale|10', 'Egil|79', 'Bolli Bollason Tale|9']"
+Einarsnes,1,['Egil|79']
+Storð,1,['Egil|80']
+Fjarðafylki,1,['Egil|80']
+Breiðafirði,9,"['Laxdaela|73', 'Laxdaela|12', 'Ref|1', 'Laxdaela|76', 'Eirik|3', 'Egil|81', 'Laxdaela|16', 'Laxdaela|22', 'Laxdaela|74']"
+Limafirði,1,['Egil|81']
+Dala,1,['Egil|81']
+Víðimýri,1,['Egil|81']
+Mosfells,3,"['Egil|84', 'Gunnlaug|13', 'Egil|82']"
+Leiruvogi,1,['Egil|82']
+Snæfellsströnd,2,"['Egil|87', 'Egil|83']"
+Háfslæk,2,"['Egil|84', 'Egil|83']"
+Stakksmýrr,1,['Egil|83']
+Háfslækur,2,"['Egil|85', 'Egil|83']"
+Stakksmýri,1,['Egil|83']
+Granahlið,1,['Egil|83']
+Brekku,1,['Egil|84']
+Stafaholt,1,['Egil|84']
+Reykjardal,3,"['Egil|84', 'Laxdaela|60', 'Laxdaela|62']"
+Stafaholti,1,['Egil|84']
+Mýrunum,2,"['Gunnlaug|5', 'Egil|86']"
+Blundsvatn,1,['Egil|86']
+Grísartungu,2,"['Laxdaela|35', 'Egil|86']"
+Langavatns,1,['Egil|86']
+Gljúfurár,1,['Egil|86']
+Einkunnir,1,['Egil|86']
+Ölvaldsstaða,1,['Egil|86']
+Stangarholt,1,['Egil|86']
+Gufuár,1,['Egil|86']
+Vatni,1,['Egil|86']
+Aurriðaár,1,['Egil|87']
+Langaholti,1,['Egil|87']
+Orustuhvoll,1,['Egil|87']
+Borgarhraun,1,['Egil|87']
+Elliða,1,['Egil|87']
+Skarðsheiði,1,['Egil|87']
+Lögbergs,6,"['Laxdaela|25', 'Hrafnkel|11', 'Laxdaela|33', 'Gunnlaug|11', 'Confederates|10', 'Egil|88']"
+Tjaldanes,1,['Egil|88']
+Hrísbrú,1,['Egil|89']
+Jamtalands,1,['Vatnsdal|1']
+Gautlandi,1,['Vatnsdal|3']
+Gautlands,2,"['Laxdaela|36', 'Vatnsdal|5']"
+Hefni,1,['Vatnsdal|7']
+Svíasker,1,['Vatnsdal|7']
+Jaðar,1,['Vatnsdal|8']
+Sognsjó,1,['Vatnsdal|8']
+Hafursfjörð,1,['Vatnsdal|8']
+Skagafjörð,2,"['Greenlanders|8', 'Vatnsdal|10']"
+Sæmundarhlíð,1,['Vatnsdal|10']
+Skagafirði,4,"['Vatnsdal|29', 'Eirik|7', 'Bolli Bollason Tale|2', 'Vatnsdal|10']"
+Möðruvöllum,2,"['Vatnsdal|44', 'Vatnsdal|10']"
+Borgar fjörð,1,['Vatnsdal|10']
+Þverárhlíð,1,['Vatnsdal|10']
+Leiruvog,3,"['Vatnsdal|14', 'Gunnlaug|9', 'Gunnlaug|10']"
+Norðurárdal,3,"['Vatnsdal|14', 'Laxdaela|38', 'Gunnlaug|10']"
+Hrútafjörður,1,['Vatnsdal|14']
+Borðeyri,6,"['Laxdaela|18', 'Laxdaela|20', 'Laxdaela|66', 'Confederates|2', 'Gunnlaug|13', 'Vatnsdal|14']"
+Víðidal,7,"['Confederates|4', 'Laxdaela|29', 'Laxdaela|38', 'Vatnsdal|32', 'Laxdaela|48', 'Vatnsdal|14', 'Laxdaela|43']"
+Ingimundarhóll,1,['Vatnsdal|14']
+Vatnsdals,5,"['Vatnsdal|39', 'Confederates|4', 'Vatnsdal|15', 'Vatnsdal|40', 'Vatnsdal|35']"
+Vatnsdalsá,4,"['Vatnsdal|22', 'Vatnsdal|15', 'Vatnsdal|32', 'Vatnsdal|16']"
+Þórdísarholt,1,['Vatnsdal|15']
+Vatnsdal,9,"['Vatnsdal|39', 'Vatnsdal|42', 'Vatnsdal|15', 'Gunnlaug|5', 'Vatnsdal|47', 'Vatnsdal|21', 'Vatnsdal|45', 'Laxdaela|43', 'Vatnsdal|16']"
+Helgavatn,1,['Vatnsdal|15']
+Urðarvatn,2,"['Vatnsdal|15', 'Vatnsdal|16']"
+Þórdísarlækur,1,['Vatnsdal|15']
+Smiðjuvatn,1,['Vatnsdal|15']
+Húnavatn,1,['Vatnsdal|15']
+Vatnafjörður,1,['Vatnsdal|15']
+Sauðadalur,2,"['Vatnsdal|15', 'Vatnsdal|16']"
+Svínavatn,2,"['Vatnsdal|15', 'Vatnsdal|16']"
+Beigaðarhóll,2,"['Vatnsdal|15', 'Vatnsdal|16']"
+Húnavatnsós,3,"['Vatnsdal|43', 'Vatnsdal|17', 'Vatnsdal|16']"
+Stígandahróf,1,['Vatnsdal|16']
+Mógilslækjar,1,['Vatnsdal|16']
+Grund,2,"['Vatnsdal|29', 'Vatnsdal|16']"
+Jörundarfjalli,1,['Vatnsdal|16']
+Mársstöðum,2,"['Vatnsdal|36', 'Vatnsdal|16']"
+Mógilslæk,1,['Vatnsdal|16']
+Giljár,1,['Vatnsdal|16']
+Helgavatni,3,"['Vatnsdal|42', 'Vatnsdal|28', 'Vatnsdal|16']"
+Þingeyrasveit,1,['Vatnsdal|16']
+Svínadalur,1,['Vatnsdal|16']
+Forsæludal,3,"['Vatnsdal|44', 'Vatnsdal|30', 'Vatnsdal|16']"
+Friðmundará,2,"['Vatnsdal|30', 'Vatnsdal|16']"
+Grímstungum,3,"['Gunnlaug|5', 'Vatnsdal|37', 'Vatnsdal|16']"
+Haukagili,6,"['Vatnsdal|38', 'Vatnsdal|41', 'Vatnsdal|46', 'Vatnsdal|40', 'Vatnsdal|16', 'Vatnsdal|37']"
+Blönduárósi,1,['Vatnsdal|17']
+Blöndudal,1,['Vatnsdal|17']
+Gautsdal,1,['Vatnsdal|17']
+Skagafjarðar,4,"['Vatnsdal|24', 'Vatnsdal|20', 'Vatnsdal|18', 'Bolli Bollason Tale|3']"
+Höfðaströnd,1,['Vatnsdal|18']
+Höfða,3,"['Greenlanders|6', 'Bolli Bollason Tale|1', 'Vatnsdal|18']"
+Unadal,1,['Vatnsdal|18']
+Hrolleifsdalur,1,['Vatnsdal|18']
+Ási,3,"['Vatnsdal|21', 'Gunnlaug|5', 'Laxdaela|55']"
+Kárnsnesland,1,['Vatnsdal|21']
+Tungu,25,"['Laxdaela|30', 'Laxdaela|66', 'Hrafnkel|1', 'Laxdaela|76', 'Laxdaela|58', 'Bolli Bollason Tale|5', 'Vatnsdal|21', 'Laxdaela|59', 'Laxdaela|26', 'Laxdaela|53', 'Laxdaela|67', 'Laxdaela|69', 'Vatnsdal|27', 'Laxdaela|51', 'Laxdaela|47', 'Laxdaela|68', 'Bolli Bollason Tale|1', 'Bolli Bollason Tale|2', 'Laxdaela|63', 'Laxdaela|55', 'Laxdaela|49', 'Laxdaela|54', 'Laxdaela|57', 'Bolli Bollason Tale|10', 'Laxdaela|45']"
+Þórormstunga,1,['Vatnsdal|21']
+Ás,3,"['Gunnlaug|5', 'Vatnsdal|26', 'Laxdaela|55']"
+Vatnsdælum,1,['Vatnsdal|27']
+Vesturhópi,1,['Vatnsdal|27']
+,9,"['Thorstein Shiver Tale|1', 'Sarcastic Halli Tale|3', 'Sarcastic Halli Tale|8', 'Halldor Tale|1', 'Bolli Bollason Tale|9', 'Bolli Bollason Tale|8', 'Bolli Bollason Tale|6', 'Bolli Bollason Tale|1', 'Vatnsdal|27']"
+Smiðsstöðum,1,['Vatnsdal|27']
+Nautabúi,1,['Vatnsdal|27']
+Undunfelli,1,['Vatnsdal|27']
+Sleggjustaði,1,['Vatnsdal|28']
+Vatnsdalsár,1,['Vatnsdal|28']
+Sleggjustaðir,1,['Vatnsdal|28']
+Mársstaði,2,"['Vatnsdal|29', 'Vatnsdal|32']"
+Hjallalandi,1,['Vatnsdal|29']
+Kárnsnesi,2,"['Vatnsdal|29', 'Vatnsdal|35']"
+Húfuhylu,1,['Vatnsdal|29']
+Kárnsá,3,"['Vatnsdal|29', 'Vatnsdal|42', 'Vatnsdal|37']"
+Hrútafjarðarár,2,"['Vatnsdal|29', 'Vatnsdal|35']"
+Jökulsár,1,['Vatnsdal|29']
+Hjallaland,1,['Vatnsdal|29']
+Melrakkasléttu,2,"['Vatnsdal|29', 'Gunnlaug|10']"
+Grátsmýr,1,['Vatnsdal|30']
+Eyjarengi,1,['Vatnsdal|31']
+Húnavatnsþings,2,"['Vatnsdal|33', 'Vatnsdal|37']"
+Undunfells,1,['Vatnsdal|34']
+Hofs,6,"['Vatnsdal|36', 'Vatnsdal|39', 'Thorstein Staff Struck Tale|1', 'Vatnsdal|40', 'Bolli Bollason Tale|1', 'Vatnsdal|35']"
+Jökulsár í Skagafirði,1,['Vatnsdal|35']
+Strandir,1,['Vatnsdal|35']
+Trékyllisvík,1,['Vatnsdal|35']
+Hrútafjörð,6,"['Vatnsdal|36', 'Laxdaela|20', 'Confederates|1', 'Laxdaela|66', 'Laxdaela|72', 'Confederates|2']"
+Guðbrandsstöðum,1,['Vatnsdal|38']
+Minþakseyri,1,['Vatnsdal|40']
+Hvanndali,1,['Vatnsdal|40']
+Eyjafjarðar,1,['Vatnsdal|40']
+Hrafnagili,1,['Vatnsdal|40']
+Ingólfsholt,1,['Vatnsdal|41']
+Svínavatni,1,['Vatnsdal|44']
+Spákonufelli,1,['Vatnsdal|44']
+Hofsland,1,['Vatnsdal|45']
+Giljá,1,['Vatnsdal|46']
+Engihlíð,1,['Vatnsdal|47']
+Langadal,4,"['Eirik|2', 'Vatnsdal|47', 'Laxdaela|65', 'Laxdaela|43']"
+Kili,1,['Vatnsdal|47']
+Reykjavöllum,1,['Vatnsdal|47']
+Móbergi,1,['Vatnsdal|47']
+Þjófadal,1,['Vatnsdal|47']
+Kólkumýrum,1,['Vatnsdal|47']
+Holti,2,"['Vatnsdal|47', 'Gisla|12']"
+Skagaströnd,1,['Vatnsdal|47']
+Breiðavaðs,1,['Vatnsdal|47']
+Blöndu,1,['Vatnsdal|47']
+Stafár,1,['Laxdaela|1']
+Hraunfjarðar,1,['Laxdaela|1']
+Bjarnarhöfn,4,"['Eirik|1', 'Laxdaela|49', 'Laxdaela|66', 'Laxdaela|1']"
+Eyri,4,"['Gisla|37', 'Gisla|7', 'Laxdaela|1', 'Gunnlaug|1']"
+Kjalarnes,5,"['Greenlanders|4', 'Eirik|11', 'Eirik|8', 'Eirik|9', 'Laxdaela|1']"
+Kollafjarðar,2,"['Laxdaela|1', 'Confederates|2']"
+Hvalfjarðar,1,['Laxdaela|1']
+Esjubergi,1,['Laxdaela|1']
+Eyjafjörð,4,"['Confederates|1', 'Laxdaela|75', 'Confederates|9', 'Laxdaela|1']"
+Sigluness,1,['Laxdaela|1']
+Reynisness,1,['Laxdaela|1']
+Kristnesi,1,['Laxdaela|1']
+Katanesi,2,"['Laxdaela|2', 'Eirik|1']"
+Færeyja,1,['Laxdaela|2']
+Færeyjum,1,['Laxdaela|3']
+Vikrarskeið,1,['Laxdaela|3']
+Dögurðarnes,2,"['Laxdaela|3', 'Bolli Bollason Tale|5']"
+Meðalfellsströnd,1,['Laxdaela|3']
+Hvammsfirði,4,"['Laxdaela|3', 'Laxdaela|28', 'Gunnlaug|3', 'Laxdaela|47']"
+Kambsnes,4,"['Laxdaela|3', 'Laxdaela|34', 'Laxdaela|17', 'Laxdaela|35']"
+Breiðafjarðardali,3,"['Laxdaela|3', 'Laxdaela|45', 'Laxdaela|29']"
+Hvammi,4,"['Laxdaela|3', 'Laxdaela|5', 'Gisla|19', 'Eirik|1']"
+Laxá,5,"['Laxdaela|18', 'Laxdaela|11', 'Laxdaela|3', 'Laxdaela|22', 'Laxdaela|13']"
+Hörðadal,7,"['Laxdaela|5', 'Laxdaela|4', 'Laxdaela|63', 'Laxdaela|55', 'Laxdaela|61', 'Laxdaela|60', 'Laxdaela|59']"
+Skrámuhlaupsár,1,['Laxdaela|4']
+Hörðabólstað,1,['Laxdaela|4']
+Örnólfsdal,2,"['Laxdaela|4', 'Gunnlaug|4']"
+Ásbjarnarstöðum,1,['Laxdaela|4']
+Sauðafellslönd,1,['Laxdaela|4']
+Tunguár,1,['Laxdaela|4']
+Miðár,1,['Laxdaela|4']
+Sökkólfsdal,1,['Laxdaela|4']
+Hundadal,3,"['Laxdaela|36', 'Laxdaela|52', 'Laxdaela|4']"
+Vífilsdal,2,"['Laxdaela|4', 'Eirik|1']"
+Dölum,6,"['Laxdaela|4', 'Laxdaela|55', 'Laxdaela|61', 'Laxdaela|60', 'Laxdaela|42', 'Laxdaela|48']"
+Reykjanesi,2,"['Laxdaela|4', 'Laxdaela|76']"
+Eyjafirði,1,['Laxdaela|4']
+Höskuldsstöðum,5,"['Laxdaela|5', 'Laxdaela|7', 'Laxdaela|21', 'Laxdaela|22', 'Laxdaela|8']"
+Dögurðarnesi,4,"['Laxdaela|36', 'Laxdaela|14', 'Laxdaela|5', 'Laxdaela|68']"
+Bjarnarfirði,1,['Laxdaela|7']
+Steingrímsfirði,3,"['Gunnlaug|3', 'Laxdaela|7', 'Gisla|7']"
+Vestfjörðum,1,['Laxdaela|7']
+Ströndum,1,['Laxdaela|7']
+Bjarnarfjörð,1,['Laxdaela|7']
+Hrappsstöðum,4,"['Laxdaela|15', 'Laxdaela|22', 'Laxdaela|8', 'Laxdaela|16']"
+Suðureyjum,2,"['Laxdaela|8', 'Eirik|5']"
+Þórsnesi,2,"['Gisla|5', 'Laxdaela|8']"
+Goddastöðum,5,"['Laxdaela|14', 'Laxdaela|20', 'Laxdaela|9', 'Laxdaela|22', 'Laxdaela|13']"
+Sauðafelli,3,"['Laxdaela|14', 'Laxdaela|9', 'Ref|1']"
+Blönduósi,1,['Laxdaela|9']
+Björgvin,1,['Laxdaela|9']
+Brenneyjar,1,['Laxdaela|10']
+Víkurinnar,1,['Laxdaela|11']
+Snæfellsnes,1,['Laxdaela|11']
+Laxárósi,4,"['Laxdaela|28', 'Laxdaela|27', 'Laxdaela|12', 'Laxdaela|11']"
+Búðardalur,1,['Laxdaela|11']
+Sauðeyjum,1,['Laxdaela|12']
+Bjarneyjar,1,['Laxdaela|12']
+Goddastaði,2,"['Laxdaela|12', 'Laxdaela|13']"
+Dali,6,"['Laxdaela|73', 'Laxdaela|12', 'Laxdaela|58', 'Laxdaela|57', 'Laxdaela|42', 'Laxdaela|48']"
+Sauðafells,1,['Laxdaela|13']
+Hrappsstaði,2,"['Laxdaela|15', 'Laxdaela|16']"
+Kolkistustraumur,1,['Laxdaela|16']
+Guðmundareyjar,1,['Laxdaela|16']
+Breiðasund,1,['Laxdaela|17']
+Kambsnesi,4,"['Laxdaela|18', 'Laxdaela|23', 'Laxdaela|17', 'Laxdaela|35']"
+Höskuldsstaði,4,"['Laxdaela|25', 'Laxdaela|20', 'Laxdaela|17', 'Laxdaela|21']"
+Orustudalur,1,['Laxdaela|17']
+Hrútsstöðum,2,"['Laxdaela|17', 'Laxdaela|35']"
+Hrútafirði,6,"['Laxdaela|18', 'Confederates|4', 'Bolli Bollason Tale|4', 'Confederates|2', 'Gunnlaug|13', 'Confederates|8']"
+Írlands,1,['Laxdaela|19']
+Hrútafjarðar,5,"['Bolli Bollason Tale|4', 'Laxdaela|20', 'Laxdaela|73', 'Laxdaela|52', 'Gunnlaug|13']"
+Höskuldsstaðir,1,['Laxdaela|22']
+Saurbæ,5,"['Laxdaela|26', 'Laxdaela|31', 'Laxdaela|30', 'Laxdaela|33', 'Laxdaela|45']"
+Öxney,1,['Laxdaela|28']
+Ásbjarnarnesi,2,"['Laxdaela|43', 'Laxdaela|29']"
+Vatnsfjörð,1,['Laxdaela|29']
+Djúpafjörð,1,['Laxdaela|29']
+Harrastaðir,1,['Laxdaela|29']
+Hjarðarholtslandi,1,['Laxdaela|29']
+Laugum,7,"['Laxdaela|44', 'Laxdaela|41', 'Laxdaela|30', 'Laxdaela|33', 'Laxdaela|46', 'Laxdaela|42', 'Laxdaela|45']"
+Sælingsdal,8,"['Laxdaela|44', 'Laxdaela|53', 'Laxdaela|30', 'Laxdaela|33', 'Laxdaela|64', 'Laxdaela|46', 'Laxdaela|52', 'Laxdaela|45']"
+Laugabær,1,['Laxdaela|30']
+Sælingsdalsá,1,['Laxdaela|30']
+Stakkagils,1,['Laxdaela|30']
+Hóli,7,"['Hrafnkel|4', 'Laxdaela|31', 'Laxdaela|30', 'Laxdaela|33', 'Gisla|13', 'Laxdaela|46', 'Gisla|5']"
+Barðaströnd,8,"['Laxdaela|31', 'Ref|1', 'Gisla|28', 'Laxdaela|55', 'Ref|3', 'Ref|2', 'Laxdaela|64', 'Gisla|19']"
+Haga,4,"['Ref|4', 'Laxdaela|31', 'Laxdaela|64', 'Ref|5']"
+Hvammsfjörð,1,['Laxdaela|31']
+Ljá,1,['Laxdaela|31']
+Laxár,2,"['Laxdaela|44', 'Laxdaela|31']"
+Garpsdal,1,['Laxdaela|32']
+Gilsfirði,1,['Laxdaela|32']
+Lauga,10,"['Laxdaela|44', 'Laxdaela|40', 'Laxdaela|41', 'Laxdaela|32', 'Laxdaela|48', 'Laxdaela|47', 'Laxdaela|33', 'Laxdaela|38', 'Laxdaela|42', 'Laxdaela|45']"
+Króksfirði,1,['Laxdaela|32']
+Ingunnarstöðum,1,['Laxdaela|32']
+Skálmarnes,2,"['Laxdaela|32', 'Laxdaela|33']"
+Hallsteinsnesi,1,['Laxdaela|32']
+Þorskafjörð,4,"['Hrafnkel|15', 'Hrafnkel|9', 'Laxdaela|32', 'Hrafnkel|20']"
+Skálmarfirði,1,['Laxdaela|33']
+Saurbæjar,3,"['Laxdaela|45', 'Laxdaela|51', 'Laxdaela|33']"
+Bláskógaheiði,2,"['Confederates|8', 'Laxdaela|33']"
+Hvammsdal,1,['Laxdaela|33']
+Sælingsdalsheiði,2,"['Laxdaela|45', 'Laxdaela|33']"
+Skálmarnesi,1,['Laxdaela|33']
+Tjaldanesi,1,['Laxdaela|33']
+Skálmarness,1,['Laxdaela|33']
+Kjalarey,1,['Laxdaela|33']
+Skjaldarey,1,['Laxdaela|33']
+Haugsnes,1,['Laxdaela|33']
+Helgafelli,11,"['Laxdaela|34', 'Laxdaela|63', 'Laxdaela|67', 'Laxdaela|66', 'Laxdaela|76', 'Laxdaela|58', 'Laxdaela|72', 'Gisla|37', 'Laxdaela|64', 'Laxdaela|68', 'Laxdaela|74']"
+Leiðólfsstöðum,1,['Laxdaela|34']
+Eldgrímsstaðir,1,['Laxdaela|35']
+Múla,1,['Laxdaela|35']
+Grímsdalur,1,['Laxdaela|35']
+Eldgrímsholt,1,['Laxdaela|35']
+Haukadals,2,"['Gisla|19', 'Laxdaela|35']"
+Laxárdals,2,"['Laxdaela|63', 'Laxdaela|35']"
+Þykkvaskógi,2,"['Laxdaela|36', 'Laxdaela|57']"
+Ásgeirsá,2,"['Confederates|1', 'Laxdaela|38']"
+Gufuárósi,2,"['Gunnlaug|5', 'Laxdaela|38']"
+Agðaness,1,['Laxdaela|38']
+Niðaróss,2,"['Gunnlaug|5', 'Laxdaela|38']"
+Nið,3,"['Halldor Tale|4', 'Sarcastic Halli Tale|1', 'Laxdaela|38']"
+Álftafjörð,1,['Laxdaela|39']
+Þvottá,1,['Laxdaela|39']
+Eyjafjöllum,1,['Laxdaela|39']
+Vestmannaeyjar,1,['Laxdaela|40']
+Ásbjarnarnes,1,['Laxdaela|43']
+Norðlendingafjórðungi,1,['Laxdaela|43']
+Miðfirði,3,"['Confederates|1', 'Laxdaela|43', 'Confederates|2']"
+Vatnsnesi,1,['Laxdaela|43']
+Ljárskógum,3,"['Laxdaela|44', 'Laxdaela|73', 'Laxdaela|48']"
+Skógum,1,['Laxdaela|44']
+Sælingsdalstungu,6,"['Laxdaela|44', 'Laxdaela|50', 'Laxdaela|51', 'Laxdaela|47', 'Laxdaela|75', 'Laxdaela|56']"
+Tunguland,1,['Laxdaela|45']
+Svínadal,3,"['Laxdaela|45', 'Laxdaela|47', 'Laxdaela|46']"
+Hvítadal,2,"['Laxdaela|45', 'Laxdaela|46']"
+Hól,3,"['Hrafnkel|7', 'Laxdaela|45', 'Gisla|17']"
+Svínadals,1,['Laxdaela|46']
+Hafragil,1,['Laxdaela|46']
+Hafragili,1,['Laxdaela|47']
+Helgafells,13,"['Laxdaela|73', 'Laxdaela|63', 'Laxdaela|55', 'Laxdaela|66', 'Laxdaela|70', 'Laxdaela|47', 'Laxdaela|72', 'Laxdaela|76', 'Laxdaela|75', 'Laxdaela|54', 'Laxdaela|57', 'Laxdaela|64', 'Laxdaela|68']"
+Skorrey,1,['Laxdaela|47']
+Ingjaldssandi,1,['Laxdaela|48']
+Þórsnessþings,5,"['Laxdaela|48', 'Laxdaela|49', 'Gisla|20', 'Gisla|19', 'Gisla|5']"
+Þórsnessþingi,3,"['Laxdaela|69', 'Laxdaela|48', 'Eirik|2']"
+Dönustöðum,1,['Laxdaela|50']
+Ljárskóga,2,"['Laxdaela|53', 'Laxdaela|73']"
+Bollatóftir,1,['Laxdaela|53']
+Stakkagili,1,['Laxdaela|53']
+Ránarvöllu,1,['Laxdaela|53']
+Vaðli,1,['Laxdaela|55']
+Kroppi,1,['Laxdaela|55']
+Tvídægr,1,['Laxdaela|55']
+Þykkvaskóg,1,['Laxdaela|57']
+Haukadalsár,1,['Laxdaela|57']
+Höfði,1,['Laxdaela|57']
+Lækjarskógslandi,1,['Laxdaela|57']
+Skógarströnd,2,"['Laxdaela|69', 'Laxdaela|57']"
+Skorradal,2,"['Laxdaela|63', 'Laxdaela|58']"
+Sópandaskarðs,1,['Laxdaela|60']
+Langavatnsdal,2,"['Laxdaela|60', 'Gunnlaug|5']"
+Bæ,1,['Laxdaela|60']
+Skorradals,1,['Laxdaela|60']
+Vatnshorni,2,"['Laxdaela|60', 'Eirik|2']"
+Sarpi,1,['Laxdaela|60']
+Reykjardals,1,['Laxdaela|63']
+Völlum,2,"['Laxdaela|65', 'Bolli Bollason Tale|9']"
+Krossavík,1,['Laxdaela|67']
+Dröngum,2,"['Laxdaela|69', 'Eirik|2']"
+Sarpsborg,1,['Laxdaela|71']
+Sarpsborgar,1,['Laxdaela|71']
+Miklagarð,2,"['Laxdaela|71', 'Hrafnkel|9']"
+Miklagarði,4,"['Hrafnkel|3', 'Laxdaela|71', 'Halldor Tale|1', 'Sarcastic Halli Tale|5']"
+Ljáeyri,1,['Laxdaela|73']
+Steingrímsfjörð,1,['Laxdaela|73']
+Hjarðarholtsland,1,['Laxdaela|73']
+Bjarnarey,1,['Laxdaela|74']
+Stafey,1,['Laxdaela|74']
+Húsafelli,1,['Laxdaela|76']
+Róms,1,['Laxdaela|76']
+Hróiskeldu,1,['Laxdaela|76']
+Sk,1,['Bolli Bollason Tale|1']
+Mik,1,['Bolli Bollason Tale|1']
+Marbæli,2,"['Bolli Bollason Tale|5', 'Bolli Bollason Tale|1']"
+Ho,1,['Bolli Bollason Tale|1']
+Hjaltadal,1,['Bolli Bollason Tale|1']
+Þúfum,1,['Bolli Bollason Tale|1']
+Miklabæ,4,"['Bolli Bollason Tale|5', 'Bolli Bollason Tale|1', 'Bolli Bollason Tale|3', 'Bolli Bollason Tale|10']"
+Reykja,1,['Bolli Bollason Tale|1']
+Guðdölum,1,['Bolli Bollason Tale|2']
+Heljardalsheiði,2,"['Bolli Bollason Tale|5', 'Bolli Bollason Tale|6']"
+Svarfaðardal,5,"['Sarcastic Halli Tale|2', 'Bolli Bollason Tale|9', 'Bolli Bollason Tale|8', 'Bolli Bollason Tale|6', 'Sarcastic Halli Tale|7']"
+Skeiði,4,"['Bolli Bollason Tale|7', 'Bolli Bollason Tale|10', 'Bolli Bollason Tale|6', 'Bolli Bollason Tale|9']"
+Há,1,['Bolli Bollason Tale|6']
+Skeið,1,['Bolli Bollason Tale|7']
+Möðr,1,['Bolli Bollason Tale|8']
+Galmar,1,['Bolli Bollason Tale|8']
+Krossum,1,['Bolli Bollason Tale|8']
+Svarfaðardals,1,['Bolli Bollason Tale|8']
+Svarfaðardalsár,1,['Bolli Bollason Tale|9']
+Svarf,1,['Bolli Bollason Tale|9']
+Krossa,1,['Bolli Bollason Tale|9']
+Breiðdal,1,['Hrafnkel|1']
+Fljótsdalshérað,1,['Hrafnkel|1']
+Arnþrúðarstöðum,1,['Hrafnkel|1']
+Geitdal,1,['Hrafnkel|1']
+Lagarfljót,3,"['Hrafnkel|14', 'Hrafnkel|1', 'Hrafnkel|16']"
+Hallfreðarstöðum,1,['Hrafnkel|1']
+Jökulsdalur,1,['Hrafnkel|2']
+Fljótsdalsheiði,4,"['Hrafnkel|14', 'Hrafnkel|13', 'Hrafnkel|8', 'Hrafnkel|2']"
+Jökulsdal,2,"['Hrafnkel|13', 'Hrafnkel|2']"
+Aðalbóli,7,"['Hrafnkel|4', 'Hrafnkel|12', 'Hrafnkel|15', 'Hrafnkel|2', 'Hrafnkel|20', 'Hrafnkel|19', 'Hrafnkel|13']"
+Hallfreðargata,1,['Hrafnkel|2']
+Laugarhúsum,1,['Hrafnkel|3']
+Hrafnkelsdal,5,"['Hrafnkel|3', 'Hrafnkel|4', 'Hrafnkel|5', 'Hrafnkel|11', 'Hrafnkel|20']"
+Leikskálum,5,"['Hrafnkel|3', 'Hrafnkel|15', 'Hrafnkel|20', 'Hrafnkel|19', 'Eirik|2']"
+Aðalból,8,"['Hrafnkel|4', 'Hrafnkel|8', 'Hrafnkel|5', 'Hrafnkel|7', 'Hrafnkel|11', 'Hrafnkel|6', 'Hrafnkel|15', 'Hrafnkel|19']"
+Grjótteigsseli,1,['Hrafnkel|5']
+Grjótteigsá,1,['Hrafnkel|5']
+Grjótárgili,1,['Hrafnkel|5']
+Jökulsá,3,"['Hrafnkel|20', 'Hrafnkel|5', 'Hrafnkel|17']"
+Reykjasels,1,['Hrafnkel|5']
+Grjótteigi,1,['Hrafnkel|5']
+Einarsvarða,1,['Hrafnkel|6']
+Laugarhúsa,1,['Hrafnkel|7']
+Leikskála,2,"['Hrafnkel|19', 'Hrafnkel|7']"
+Skriðudals,1,['Hrafnkel|8']
+Skriðudal,3,"['Hrafnkel|8', 'Hrafnkel|16', 'Hrafnkel|17']"
+Öxarheiði,1,['Hrafnkel|8']
+Berufjarðar,1,['Hrafnkel|8']
+Síðu,2,"['Hrafnkel|8', 'Hrafnkel|11']"
+Fljótsdal,3,"['Hrafnkel|14', 'Hrafnkel|8', 'Hrafnkel|16']"
+Þingvöll,1,['Hrafnkel|8']
+Möðrudalsheiði,2,"['Hrafnkel|8', 'Hrafnkel|20']"
+Möðrudal,1,['Hrafnkel|8']
+Herðibreiðstungu,1,['Hrafnkel|8']
+Króksdal,1,['Hrafnkel|8']
+Sand,1,['Hrafnkel|8']
+Sandafell,1,['Hrafnkel|8']
+Öxará,1,['Hrafnkel|9']
+Vestfjörðu,1,['Hrafnkel|9']
+Görðum,3,"['Greenlanders|7', 'Greenlanders|1', 'Hrafnkel|9']"
+Lyngdalsheiði,1,['Hrafnkel|11']
+Austfjörðu,2,"['Confederates|9', 'Hrafnkel|12']"
+Hrafnkelsdals,2,"['Hrafnkel|13', 'Hrafnkel|17']"
+Jökulsdals,1,['Hrafnkel|13']
+Hrossageilar,1,['Hrafnkel|13']
+Lokhillu,1,['Hrafnkel|14']
+Hrafnkelsstöðum,4,"['Hrafnkel|14', 'Hrafnkel|16', 'Hrafnkel|20', 'Hrafnkel|17']"
+Freyfaxahamar,1,['Hrafnkel|15']
+Lagarfljóti,2,"['Hrafnkel|16', 'Hrafnkel|17']"
+Reyðarfjörð,1,['Hrafnkel|17']
+Reyðarfirði,1,['Hrafnkel|17']
+Þórisdalsheiði,1,['Hrafnkel|17']
+Fljótsdals,1,['Hrafnkel|17']
+Gilsáreyri,1,['Hrafnkel|17']
+Hallormsstaða,1,['Hrafnkel|17']
+Hrafnkelsstaða,1,['Hrafnkel|17']
+Víðivöllu,1,['Hrafnkel|17']
+Hrólfsstaði,1,['Hrafnkel|17']
+Bersagötur,1,['Hrafnkel|18']
+Aðalbóls,2,"['Hrafnkel|19', 'Hrafnkel|18']"
+Eyvindartorfa,1,['Hrafnkel|18']
+Eyvindarfjöll,1,['Hrafnkel|18']
+Eyvindardalur,1,['Hrafnkel|18']
+Mývatns,1,['Hrafnkel|20']
+Fljótsheiði,1,['Hrafnkel|20']
+Ljósavatnsskarð,1,['Hrafnkel|20']
+Reykjum,1,['Confederates|1']
+Skörðum,1,['Confederates|1']
+Stranda,2,"['Confederates|1', 'Confederates|2']"
+Miðfjarðar,1,['Confederates|1']
+Mel,5,"['Confederates|4', 'Confederates|11', 'Confederates|7', 'Confederates|9', 'Confederates|2']"
+Skriðinsenni,1,['Confederates|2']
+Bitru,1,['Confederates|2']
+Miðfjörð,2,"['Confederates|11', 'Confederates|2']"
+Svölustaði,2,"['Confederates|4', 'Confederates|12']"
+Svölustöðum,2,"['Confederates|4', 'Confederates|12']"
+Langadals,1,['Confederates|4']
+þings,1,['Confederates|5']
+Lögbergi,2,"['Confederates|6', 'Gunnlaug|13']"
+alþingis,1,['Confederates|7']
+Reyðarmúla,1,['Confederates|8']
+Melslandi,1,['Confederates|8']
+Íslandshaf,1,['Confederates|8']
+Melsland,1,['Confederates|9']
+Vöðlaþingi,1,['Confederates|10']
+Þorgeirsfjörð,1,['Confederates|11']
+Hvammsleiðar,1,['Confederates|12']
+Valfelli,1,['Confederates|12']
+Þorgautsstaði,1,['Confederates|12']
+Síðumúla,1,['Confederates|12']
+Böðvarshólum,1,['Confederates|12']
+Borgarhóli,1,['Confederates|12']
+Súrnadal,3,"['Gisla|1', 'Gisla|3', 'Gisla|2']"
+Fibuli,1,['Gisla|1']
+Friðarey,2,"['Gisla|3', 'Gisla|2']"
+Grannaskeiðs,1,['Gisla|2']
+Æsundir,1,['Gisla|3']
+Dýrafjörð,4,"['Gisla|9', 'Gisla|4', 'Gisla|7', 'Gisla|8']"
+Haukadalsós,1,['Gisla|4']
+Saurum,1,['Gisla|4']
+Keldudal,1,['Gisla|4']
+Alviðru,1,['Gisla|4']
+Sæbóli,5,"['Gisla|15', 'Gisla|4', 'Gisla|16', 'Gisla|5', 'Gisla|7']"
+Haukadal,5,"['Gisla|12', 'Gisla|11', 'Gisla|4', 'Gisla|5', 'Eirik|2']"
+Arnarfirði,3,"['Gisla|4', 'Gisla|22', 'Gisla|20']"
+Ketilseyri,1,['Gisla|4']
+Dýrafirði,2,"['Gisla|4', 'Gisla|7']"
+Önundarfirði,1,['Gisla|4']
+Hesti,1,['Gisla|4']
+Tálknafirði,1,['Gisla|5']
+Kvígandafelli,1,['Gisla|5']
+Hvolseyrarþings,1,['Gisla|5']
+Sæból,5,"['Gisla|12', 'Gisla|14', 'Gisla|13', 'Gisla|17', 'Gisla|5']"
+Eyrarhvolsodda,1,['Gisla|6']
+Sandaósi,1,['Gisla|7']
+Skutulsfirði,1,['Gisla|7']
+Skutilsfirði,1,['Gisla|7']
+Dögurðardalur,1,['Gisla|7']
+Austmannafall,1,['Gisla|7']
+Skeljavík,2,"['Gunnlaug|3', 'Gisla|7']"
+Meðaldal,3,"['Gisla|12', 'Gisla|11', 'Gisla|7']"
+Vébjörgum,2,"['Gisla|10', 'Gisla|8']"
+Haukadalsárós,1,['Gisla|9']
+Nefsstöðum,1,['Gisla|11']
+Haukadalsá,1,['Gisla|11']
+Önundarfjörð,1,['Gisla|11']
+Lækjaróss,1,['Gisla|11']
+Bessastöðum,1,['Gisla|11']
+Mosvöllu,1,['Gisla|11']
+Hest,2,"['Gisla|12', 'Gisla|11']"
+Mosvöllum,1,['Gisla|11']
+Dýrafjarðar,1,['Gisla|12']
+Mosvalla,1,['Gisla|12']
+Bjarnardal,1,['Gisla|12']
+Arnkelsbrekku,1,['Gisla|12']
+Gemlufallsheiði,1,['Gisla|12']
+Gemlufalls,1,['Gisla|12']
+Þingeyrar,1,['Gisla|12']
+Sandaóss,2,"['Gisla|12', 'Gisla|19']"
+Seftjörn,2,"['Gisla|14', 'Gisla|15']"
+lækjar,1,['Gisla|16']
+óssins,1,['Gisla|17']
+Annmarkastöðum,1,['Gisla|18']
+Orrastöðum,1,['Gisla|18']
+Annmarkastaði,1,['Gisla|19']
+Saltnes,1,['Gisla|19']
+Nefsstaði,1,['Gisla|19']
+Meðaldals,1,['Gisla|19']
+Þórsnes,1,['Gisla|19']
+Sandaleið,1,['Gisla|19']
+Sandaós,1,['Gisla|19']
+Þórsness,2,"['Gisla|19', 'Gisla|25']"
+Húsaness,1,['Gisla|20']
+Arnarfjörð,1,['Gisla|20']
+Geirþjófsfjörður,1,['Gisla|20']
+Geirþjófsfirði,4,"['Gisla|25', 'Gisla|30', 'Gisla|23', 'Gisla|21']"
+Otradal,4,"['Gisla|36', 'Gisla|31', 'Gisla|22', 'Gisla|32']"
+Geirþjófsfjörð,5,"['Gisla|29', 'Gisla|24', 'Gisla|27', 'Gisla|31', 'Gisla|22']"
+Geirþjófsfjarðar,1,['Gisla|23']
+Strandar,1,['Gisla|23']
+Hvamm,1,['Gisla|23']
+Vaðil,1,['Gisla|23']
+Hergilseyjar,1,['Gisla|24']
+Nesjum,1,['Gisla|24']
+Hergilsey,2,"['Gisla|25', 'Gisla|24']"
+Flateyjar,1,['Gisla|25']
+Skutileyjar,1,['Gisla|25']
+Vaðsteinaberg,1,['Gisla|26']
+nesið,1,['Gisla|26']
+Vaðsteinabergi,1,['Gisla|26']
+Hjarðarnesi,1,['Gisla|27']
+Haugs,1,['Gisla|27']
+Fossá,1,['Gisla|27']
+Þorskafjarðarþings,1,['Gisla|28']
+Mosdal,1,['Gisla|29']
+Strönd,1,['Gisla|32']
+Einhamar,1,['Gisla|35']
+Þórdísarstöðum,1,['Gisla|37']
+Glerárskógum,1,['Gisla|37']
+Grænlands,16,"['Ref|12', 'Ref|13', 'Ref|7', 'Greenlanders|4', 'Eirik|12', 'Greenlanders|7', 'Greenlanders|1', 'Eirik|7', 'Audun Tale|1', 'Gisla|38', 'Eirik|5', 'Ref|6', 'Ref|10', 'Greenlanders|6', 'Greenlanders|2', 'Eirik|3']"
+Heiðabæ,1,['Gisla|38']
+Hamri,1,['Gisla|38']
+Gufárós,1,['Gunnlaug|2']
+Valfell,1,['Gunnlaug|2']
+Grenjum,1,['Gunnlaug|2']
+Leysingjastöðum,1,['Gunnlaug|3']
+Hvítársíðu,1,['Gunnlaug|4']
+Gilsbakka,6,"['Gunnlaug|6', 'Gunnlaug|5', 'Gunnlaug|11', 'Gunnlaug|10', 'Gunnlaug|4', 'Gunnlaug|13']"
+Grindavík,1,['Gunnlaug|5']
+Hjalla,1,['Gunnlaug|5']
+Rauðamel,1,['Gunnlaug|5']
+Hlaðir,2,"['Gunnlaug|6', 'Gunnlaug|12']"
+Englandshaf,1,['Gunnlaug|6']
+Lundúnabryggjur,1,['Gunnlaug|6']
+Lúndúnaborg,1,['Gunnlaug|7']
+Svíþjóðar,4,"['Audun Tale|3', 'Gunnlaug|12', 'Gunnlaug|8', 'Gunnlaug|9']"
+Konungahellu,1,['Gunnlaug|8']
+Skörum,1,['Gunnlaug|8']
+Svíþjóð,2,"['Gunnlaug|8', 'Gunnlaug|9']"
+Uppsala,1,['Gunnlaug|9']
+Heiði,2,"['Gunnlaug|9', 'Gunnlaug|10']"
+Svíþjóðu,1,['Gunnlaug|10']
+Agðanesi,1,['Gunnlaug|10']
+Hraunhöfn,1,['Gunnlaug|10']
+Sléttunni,1,['Gunnlaug|10']
+Hreðuvatns,1,['Gunnlaug|10']
+Skáney,1,['Gunnlaug|11']
+Öxarárhólmi,1,['Gunnlaug|11']
+Öxarár,1,['Gunnlaug|11']
+Leiruvogum,1,['Gunnlaug|12']
+Lifangri,1,['Gunnlaug|12']
+Sléttu,1,['Gunnlaug|12']
+Skotlandsfjörðu,1,['Gunnlaug|12']
+Lifangur,1,['Gunnlaug|12']
+Veradal,1,['Gunnlaug|12']
+Holtavörðuheiði,1,['Gunnlaug|13']
+Hraunsdal,1,['Gunnlaug|13']
+Kvennabrekku,2,"['Ref|1', 'Ref|20']"
+Grænlandi,13,"['Ref|12', 'Ref|7', 'Eirik|8', 'Greenlanders|7', 'Greenlanders|1', 'Audun Tale|1', 'Eirik|5', 'Ref|6', 'Ref|19', 'Eirik|4', 'Greenlanders|2', 'Eirik|3', 'Greenlanders|5']"
+Víkur,1,['Ref|6']
+Grænland,7,"['Ref|13', 'Ref|7', 'Eirik|8', 'Greenlanders|1', 'Ref|14', 'Ref|10', 'Eirik|2']"
+Vestribyggð,3,"['Ref|9', 'Ref|11', 'Eirik|6']"
+Vesturlanda,1,['Ref|10']
+Æðey,1,['Ref|16']
+Niðarósi,1,['Ref|16']
+Vendli,1,['Ref|20']
+Rómaborg,3,"['Audun Tale|2', 'Thorstein Staff Struck Tale|1', 'Ref|20']"
+Frakklandi,1,['Ref|20']
+Vogs,1,['Greenlanders|1']
+Reykjaness,1,['Greenlanders|1']
+Drepstokki,1,['Greenlanders|1']
+Herjúlfsnesi,1,['Greenlanders|1']
+Brattahlíð,10,"['Greenlanders|2', 'Eirik|8', 'Eirik|7', 'Greenlanders|1', 'Eirik|5', 'Eirik|6', 'Eirik|4', 'Greenlanders|6', 'Greenlanders|5', 'Greenlanders|3']"
+Eyrar,1,['Greenlanders|1']
+Grænlandshaf,2,"['Eirik|13', 'Greenlanders|1']"
+Herjúlfsnes,1,['Greenlanders|1']
+Helluland,2,"['Greenlanders|2', 'Eirik|8']"
+Markland,3,"['Greenlanders|2', 'Eirik|8', 'Eirik|12']"
+Eiríksfjarðar,4,"['Eirik|2', 'Greenlanders|6', 'Greenlanders|5', 'Greenlanders|3']"
+Brattahlíðar,1,['Greenlanders|3']
+Vínlands,5,"['Greenlanders|4', 'Eirik|8', 'Greenlanders|7', 'Eirik|9', 'Greenlanders|5']"
+Leifsbúða,2,"['Greenlanders|4', 'Greenlanders|6']"
+Krossanes,1,['Greenlanders|4']
+Eiríksfjörð,4,"['Greenlanders|4', 'Greenlanders|7', 'Eirik|6', 'Eirik|5']"
+Eiríksfirði,2,"['Greenlanders|5', 'Eirik|5']"
+Lýsufirði,2,"['Greenlanders|5', 'Eirik|6']"
+Vínland,1,['Greenlanders|6']
+Vínlandi,2,"['Greenlanders|7', 'Greenlanders|8']"
+Austfjörðum,1,['Greenlanders|7']
+Brimum,1,['Greenlanders|8']
+Saxlandi,1,['Greenlanders|8']
+Glaumbæjarland,1,['Greenlanders|8']
+Glaumbæ,1,['Greenlanders|8']
+Dyflinni,1,['Eirik|1']
+Dyflinnarskíri,1,['Eirik|1']
+Suðurland,1,['Eirik|1']
+Ross,1,['Eirik|1']
+Dalalönd,1,['Eirik|1']
+Dögurðarár,1,['Eirik|1']
+Skraumuhlaupsár,1,['Eirik|1']
+Krosshólum,1,['Eirik|1']
+Jaðri,1,['Eirik|2']
+Hornströndum,1,['Eirik|2']
+Eiríksstöðum,1,['Eirik|2']
+Jörva,1,['Eirik|2']
+Brokey,1,['Eirik|2']
+Yxney,1,['Eirik|2']
+Tröðum,1,['Eirik|2']
+Suðurey,1,['Eirik|2']
+Svíney,1,['Eirik|2']
+Álftafirði,2,"['Eirik|7', 'Eirik|2']"
+Hítardal,1,['Eirik|2']
+Eiríksvogi,1,['Eirik|2']
+Dímunarvogi,1,['Eirik|2']
+Snæfellsjökli,1,['Eirik|2']
+Eiríkseyju,1,['Eirik|2']
+Hvarfsgnípu,1,['Eirik|2']
+Hrafnsfjörð,1,['Eirik|2']
+Hólmlátri,1,['Eirik|2']
+Laugarbrekku,1,['Eirik|3']
+Þistilsfjörð,1,['Eirik|3']
+Hellisvöllum,1,['Eirik|3']
+Arnarstapa,1,['Eirik|3']
+Þorgeirsfelli,1,['Eirik|3']
+Snæfellsnesi,1,['Eirik|3']
+Hraunhafnarósi,1,['Eirik|3']
+Herjólfsnes,1,['Eirik|3']
+Herjólfsnesi,1,['Eirik|3']
+Stokkanesi,1,['Eirik|4']
+Lýsufjörð,1,['Eirik|6']
+Reyninesi,1,['Eirik|7']
+Eríksfjörð,1,['Eirik|7']
+Vestribyggðar,1,['Eirik|8']
+Bjarneyja,1,['Eirik|8']
+Bjarneyjum,1,['Eirik|8']
+Bjarney,1,['Eirik|8']
+Furðustrandir,2,"['Eirik|8', 'Eirik|9']"
+Einfætingaland,1,['Eirik|12']
+Reynines,1,['Eirik|14']
+Sunnudal,1,['Thorstein Staff Struck Tale|1']
+Böðvarsdal,1,['Thorstein Staff Struck Tale|1']
+Sunnudal&nbsp;,1,['Thorstein Staff Struck Tale|1']
+Garðaríki,1,['Halldor Tale|1']
+Kaupa,1,['Halldor Tale|1']
+Ósló,1,['Halldor Tale|3']
+Bröttueyri,1,['Halldor Tale|4']
+Agðanes,2,"['Sarcastic Halli Tale|1', 'Sarcastic Halli Tale|3']"
+Gásum,2,"['Sarcastic Halli Tale|1', 'Sarcastic Halli Tale|3']"
+Hítrar,2,"['Sarcastic Halli Tale|1', 'Sarcastic Halli Tale|3']"
+Norðurlönd&nbsp;,1,['Sarcastic Halli Tale|1']
+Þingvallar,1,['Sarcastic Halli Tale|2']
+Fljót,1,['Sarcastic Halli Tale|3']
+Ag,1,['Sarcastic Halli Tale|3']
+Rein,1,['Sarcastic Halli Tale|3']
+Kaupangs,1,['Sarcastic Halli Tale|3']
+Þjóttu,1,['Sarcastic Halli Tale|8']
+Mörkina,1,['Sarcastic Halli Tale|8']
+Norðurl,1,['Sarcastic Halli Tale|8']
+Hálo,1,['Sarcastic Halli Tale|8']
+Jótlands,1,['Sarcastic Halli Tale|9']
+Gulaþing,1,['Sarcastic Halli Tale|11']
+Kaupangur,1,['Sarcastic Halli Tale|11']
+Víki,1,['Thorstein Shiver Tale|1']
+Íslands&nbsp;,1,['Audun Tale|4']
